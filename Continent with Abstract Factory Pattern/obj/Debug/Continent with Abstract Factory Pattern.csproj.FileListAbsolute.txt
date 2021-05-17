@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\bin\Debug\Continent with Abstract Factory Pattern.exe.config
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\bin\Debug\Continent with Abstract Factory Pattern.exe
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\bin\Debug\Continent with Abstract Factory Pattern.pdb
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\obj\Debug\Continent with Abstract Factory Pattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\obj\Debug\Continent with Abstract Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\obj\Debug\Continent with Abstract Factory Pattern.exe
+C:\Users\Admin\source\repos\Continent with Abstract Factory Pattern\Continent with Abstract Factory Pattern\obj\Debug\Continent with Abstract Factory Pattern.pdb
